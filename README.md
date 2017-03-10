@@ -1,5 +1,6 @@
 # fcitx-table-flypy
-用于 fcitx 的小鹤双拼的码表
+小鹤双拼是一款流行的双拼输入方案。
+此仓库的目的是生成用于 fcitx 的小鹤双拼的码表，该码表以音码+形码的方式，四码一字，试图获得和 Windows 上的小鹤双拼飞扬版一致的输入体验。
 
 ## 安装 ##
     cp flypy.conf flypy.mb ~/.config/fcitx/table/
